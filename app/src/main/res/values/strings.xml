@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">My Product</string>
+    <string name="content_text">A 15.6-inch Anti-Glare, wide-view display gaming laptop powered by Core i5/Core i7 processor coupled with Intel HM175 and GeForce GTX GPU.</string>
+    <string name="content_specs_display">15.6 inches
+Resolusi	1920 x 1080
+Tipe Panel	Anti-Glare</string>
+    <string name="content_specs_size">Dimensi 38.4 x 26.2 x 2.3 cm (WxDxH)
+Berat	2.5 kg</string>
+    <string name="content_specs_battery">64 Whrs 4 Cells Battery</string>
+    <string name="content_basic">CPU 	Core i5 , Core i7
+Model Prosesor	i5-7300HQ
+i7-7700HQ
+Chipset	Intel HM175 Express Chipset
+Model GPU	NVIDIA with 3GB/6GB GDDR5 VRAM GeForce GTX 1060
+NVIDIA with 2GB/4GB GDDR5 VRAM GeForce GTX 1050</string>
+    <string name="content_storage_memory">RAM 	32GB
+Tipe Memori	DDR4 SDRAM
+Kecepatan Memori	2400MHz
+Memori Tambahan	up to 32 GB
+Tipe Penyimpanan	HDD+SSD/eMMC , SSHD
+HDD 	1TB , 2TB
+Kecepatan Rotasi	5400 rpm , 7200 rpm
+SSD/eMMC	128GB , 256GB , 512GB</string>
+    <string name="content_network">Ethernet	10/100/1000 Base T
+WiFi	Integrated 802.11 AC (2x2)</string>
+    <string name="content_konektifitas">HDMI , USB3.0 , Bluetooth , Card Reader , Camera , Speakers , Microphone , 10 key , USB Type-C , USB3.1</string>
+    <string name="content_software">OS 	Windows 10
+OS Ver	Windows 10 Pro
+Windows 10 Home</string>
+    <string name="dummy_photos">5 Photos</string>
+    <string name="dummy_value">Rp 14.255.000</string>
+    <string name="stok">Stock Available : 5</string>
+    <string name="spesifikasi">Specification : </string>
+    <string name="basic">Basic Specification : </string>
+    <string name="memory">Storage Memory :  </string>
+    <string name="network">Network : </string>
+    <string name="konektifitas">Konektifitas : </string>
+    <string name="software">Software : </string>
+    <string name="display">Display : </string>
+    <string name="size">Size : </string>
+    <string name="battery">Battery : </string>
+    <string name="dijual_oleh">Seller : </string>
+    <string name="nama">Mineenie</string>
+    <string name="beli">Buy</string>
+</resources>
